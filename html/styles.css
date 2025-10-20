@@ -273,7 +273,7 @@ img.right {
     float: none;
     width: auto;
     clear: both;
-    border-top: 2px solid black;
+    border-top: 2px solid gray;
     padding-top: 10px;
   }
   .columnWrapper {
@@ -297,7 +297,7 @@ img.right {
   }
   .sidebar1,
   .sidebar2 {
-    border-top: 2px solid black;
+    border-top: 2px solid gray;
     margin-top: 25px;
     padding-top: 10px;
   }
